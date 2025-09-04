@@ -33,5 +33,5 @@ Built with **HTML, CSS, and JavaScript**, with **Font Awesome** integration for 
 - 
 ## ▶️ How to Use
 
-1. Clone or download the project:  git clone https://github.com/<your-username>/<repo-name>.git
+1. Clone or download the project:  git clone https://github.com/Jswati4/Portfolio_Creation.git
 2. Open index.html in your browser.
