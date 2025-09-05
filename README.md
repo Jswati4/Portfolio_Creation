@@ -39,8 +39,6 @@ Built with **HTML, CSS, and JavaScript**, with **Font Awesome** integration for 
 
 
 *En Français*
-# 🌐 Portfolio
-
 Un site web portfolio moderne et réactif pour présenter mon profil, ma formation et mes projets.
 
 Conçu avec **HTML, CSS et JavaScript**, avec intégration **Font Awesome** pour les icônes.
