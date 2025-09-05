@@ -1,4 +1,5 @@
-# 🌐 Portfolio - Alexis Jessica
+*IN ENGLISH*
+# 🌐 Portfolio 
 
 A modern and responsive portfolio website to showcase my profile, education, and projects.  
 Built with **HTML, CSS, and JavaScript**, with **Font Awesome** integration for icons.
@@ -35,3 +36,44 @@ Built with **HTML, CSS, and JavaScript**, with **Font Awesome** integration for 
 
 1. Clone or download the project:  git clone https://github.com/Jswati4/Portfolio_Creation.git
 2. Open index.html in your browser.
+
+
+*En Français*
+# 🌐 Portfolio
+
+Un site web portfolio moderne et réactif pour présenter mon profil, ma formation et mes projets.
+
+Conçu avec **HTML, CSS et JavaScript**, avec intégration **Font Awesome** pour les icônes.
+
+## 🚀 Fonctionnalités
+
+- Page d'accueil avec introduction et texte animé
+- Section **À propos** avec informations personnelles et bouton CV
+- Section **Formation** (parcours universitaire)
+- Section **Portfolio** avec galerie de projets
+- Section **Contact** avec formulaire et informations personnelles
+- Bouton Retour en haut
+- **Design adaptatif** (compatible mobile et tablette)
+
+## 📂 Structure du projet
+
+### Fichiers principaux
+- `index.html` → Structure principale du site web
+- `css/style.css` → Feuille de style
+- `js/script.js` → Fonctions JavaScript (menu, défilement, animations)
+
+### Dossiers
+- `Images/` → Contient la photo de profil, les images du projet et les icônes
+
+## 🛠️ Technologies utilisées
+
+- **HTML5**
+- **CSS3 (Flexbox, design adaptatif)**
+- **JavaScript (jQuery pour les animations et le menu)**
+- **Font Awesome** pour les icônes
+- **Google Fonts (Nunito)**
+-
+## ▶️ Mode d'emploi
+
+1. Clonez ou téléchargez le projet : git clone https://github.com/Jswati4/Portfolio_Creation.git
+2. Ouvrez index.html dans votre navigateur.
